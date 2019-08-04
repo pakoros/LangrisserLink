@@ -28,3 +28,5 @@
 - [https://www.reddit.com/r/langrisser/comments/am6urk/something_you_may_want_to_know_hero_boost/](https://www.reddit.com/r/langrisser/comments/am6urk/something_you_may_want_to_know_hero_boost/)
 
 - [https://www.reddit.com/r/langrisser/comments/aompmt/soldier_training_cavalry_chapter/](https://www.reddit.com/r/langrisser/comments/aompmt/soldier_training_cavalry_chapter/)
+
+- [https://www.reddit.com/r/langrisser/comments/anktxx/cortanas_4th_tips_best_t3_soldiers_and_related/](https://www.reddit.com/r/langrisser/comments/anktxx/cortanas_4th_tips_best_t3_soldiers_and_related/)
