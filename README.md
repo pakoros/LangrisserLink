@@ -26,3 +26,5 @@
 - [https://www.reddit.com/r/langrisser/comments/amx9mb/i_pledge_allegiance_faction_guide_with_buffs_team/](https://www.reddit.com/r/langrisser/comments/amx9mb/i_pledge_allegiance_faction_guide_with_buffs_team/)
 
 - [https://www.reddit.com/r/langrisser/comments/am6urk/something_you_may_want_to_know_hero_boost/](https://www.reddit.com/r/langrisser/comments/am6urk/something_you_may_want_to_know_hero_boost/)
+
+- [https://www.reddit.com/r/langrisser/comments/aompmt/soldier_training_cavalry_chapter/](https://www.reddit.com/r/langrisser/comments/aompmt/soldier_training_cavalry_chapter/)
