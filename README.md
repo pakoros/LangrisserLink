@@ -5,3 +5,6 @@
 
 # guide hidden items
 - [http://kongbakpao.com/langrisser-guide-time-rift-hidden-chest-episode-3/](http://kongbakpao.com/langrisser-guide-time-rift-hidden-chest-episode-3/)
+
+# hero guide
+- [google guide with image](https://docs.google.com/document/d/1ItmsOXSFcoKOdd1Q-GKovuOdAiUoEaEtXbaOam7Zk7g/edit)
