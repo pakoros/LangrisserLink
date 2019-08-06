@@ -30,3 +30,5 @@
 - [https://www.reddit.com/r/langrisser/comments/aompmt/soldier_training_cavalry_chapter/](https://www.reddit.com/r/langrisser/comments/aompmt/soldier_training_cavalry_chapter/)
 
 - [https://www.reddit.com/r/langrisser/comments/anktxx/cortanas_4th_tips_best_t3_soldiers_and_related/](https://www.reddit.com/r/langrisser/comments/anktxx/cortanas_4th_tips_best_t3_soldiers_and_related/)
+
+-[enchant items](https://www.reddit.com/r/langrisser/comments/arwjjl/your_dads_enchantment_guide/)
