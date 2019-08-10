@@ -31,4 +31,5 @@
 
 - [https://www.reddit.com/r/langrisser/comments/anktxx/cortanas_4th_tips_best_t3_soldiers_and_related/](https://www.reddit.com/r/langrisser/comments/anktxx/cortanas_4th_tips_best_t3_soldiers_and_related/)
 
--[enchant items](https://www.reddit.com/r/langrisser/comments/arwjjl/your_dads_enchantment_guide/)
+- [ใบ enchant items](https://www.reddit.com/r/langrisser/comments/arwjjl/your_dads_enchantment_guide/)
+- [รวมอุปกรณ์](https://docs.google.com/spreadsheets/d/1DyjkTpPI90u7JwwGibjm2gmKNmmtvPjzLaNsGk4LQ5Q/edit#gid=2113367749)
