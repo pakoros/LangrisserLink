@@ -19,6 +19,7 @@
 
 # faction guide
 - [https://www.reddit.com/r/langrisser/comments/ancg14/multiple_factions_in_the_same_team_the_ultimate/](https://www.reddit.com/r/langrisser/comments/ancg14/multiple_factions_in_the_same_team_the_ultimate/)
+- [Google doc easy to read and have some pictures](https://docs.google.com/document/d/1AuD380_w4OY9GPs94j7jNm3c1hmsJbDAZgQlrpDButM/edit)
 
 # farming gold
 - [https://www.reddit.com/r/langrisser/comments/anjpca/lets_talk_aoe_gold_farming/](https://www.reddit.com/r/langrisser/comments/anjpca/lets_talk_aoe_gold_farming/)
