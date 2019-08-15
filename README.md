@@ -30,6 +30,9 @@
 # farming gold
 - [https://www.reddit.com/r/langrisser/comments/anjpca/lets_talk_aoe_gold_farming/](https://www.reddit.com/r/langrisser/comments/anjpca/lets_talk_aoe_gold_farming/)
 
+## Guide
+- [event gold 1 turen](https://www.youtube.com/watch?v=pj5uHnwpvTs&list=PLlBfkz0HRwLvuWA6PRPvuoHRCSNbwlHdj)
+
 ## others
 
 - [https://www.reddit.com/r/langrisser/comments/amx9mb/i_pledge_allegiance_faction_guide_with_buffs_team/](https://www.reddit.com/r/langrisser/comments/amx9mb/i_pledge_allegiance_faction_guide_with_buffs_team/)
