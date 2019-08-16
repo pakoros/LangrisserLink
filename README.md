@@ -2,6 +2,8 @@
 
 ## Wiki
 - [Langrisser Gamepedia.com](https://langrisser.gamepedia.com)
+- [https://langrisser.wikiru.jp](https://langrisser.wikiru.jp/index.php?SSR%2F%A5%A2%A5%EB%A5%C6%A5%DF%A5%E5%A5%E9%A1%BC)
+- [https://kamigame.jp](https://kamigame.jp/ラングリッサー/キャラクター/index.html)
 
 ### rift and hidden treasure.
 
@@ -19,33 +21,4 @@
 
 # hero guide
 - [google guide with image(Eng)](https://docs.google.com/document/d/1ItmsOXSFcoKOdd1Q-GKovuOdAiUoEaEtXbaOam7Zk7g/edit)
-- [Hero Guide google doc](https://docs.google.com/document/d/1ItmsOXSFcoKOdd1Q-GKovuOdAiUoEaEtXbaOam7Zk7g/preview)
-- [Gear Tank+Lance,Cavalry,Infantry](https://docs.google.com/spreadsheets/d/1wMuHS2B8CfzxjUXw1uwHlvyfej0FKjqJS7Hr1XF5qS4/edit#gid=1144704325)
-- [Gear Flier, Ranger](https://docs.google.com/spreadsheets/d/1tM1JgzU0qakb4_7o9uzmXhU5G4EkrL_bmQmwXyhK0Dw/edit#gid=1490901037)
-- [Gear Mage, Healer](https://docs.google.com/spreadsheets/d/1LPGf0o7e_4I5ATJElKiylF0sYSRXoRRsxi6PQTaFGa8/edit#gid=722013709)
-
-# collection guide
-- [https://www.reddit.com/r/langrisser/comments/aosi5o/collection_of_guides/](https://www.reddit.com/r/langrisser/comments/aosi5o/collection_of_guides/)
-
-# faction guide
-- [https://www.reddit.com/r/langrisser/comments/ancg14/multiple_factions_in_the_same_team_the_ultimate/](https://www.reddit.com/r/langrisser/comments/ancg14/multiple_factions_in_the_same_team_the_ultimate/)
-- [Google doc easy to read and have some pictures](https://docs.google.com/document/d/1AuD380_w4OY9GPs94j7jNm3c1hmsJbDAZgQlrpDButM/edit)
-
-# farming gold
-- [https://www.reddit.com/r/langrisser/comments/anjpca/lets_talk_aoe_gold_farming/](https://www.reddit.com/r/langrisser/comments/anjpca/lets_talk_aoe_gold_farming/)
-
-## Guide
-- [event gold 1 turen](https://www.youtube.com/watch?v=pj5uHnwpvTs&list=PLlBfkz0HRwLvuWA6PRPvuoHRCSNbwlHdj)
-
-## others
-
-- [https://www.reddit.com/r/langrisser/comments/amx9mb/i_pledge_allegiance_faction_guide_with_buffs_team/](https://www.reddit.com/r/langrisser/comments/amx9mb/i_pledge_allegiance_faction_guide_with_buffs_team/)
-
-- [https://www.reddit.com/r/langrisser/comments/am6urk/something_you_may_want_to_know_hero_boost/](https://www.reddit.com/r/langrisser/comments/am6urk/something_you_may_want_to_know_hero_boost/)
-
-- [https://www.reddit.com/r/langrisser/comments/aompmt/soldier_training_cavalry_chapter/](https://www.reddit.com/r/langrisser/comments/aompmt/soldier_training_cavalry_chapter/)
-
-- [https://www.reddit.com/r/langrisser/comments/anktxx/cortanas_4th_tips_best_t3_soldiers_and_related/](https://www.reddit.com/r/langrisser/comments/anktxx/cortanas_4th_tips_best_t3_soldiers_and_related/)
-
-- [ใบ enchant items](https://www.reddit.com/r/langrisser/comments/arwjjl/your_dads_enchantment_guide/)
-- [รวมอุปกรณ์](https://docs.google.com/spreadsheets/d/1DyjkTpPI90u7JwwGibjm2gmKNmmtvPjzLaNsGk4LQ5Q/edit#gid=2113367749)
+- [Hero Guide 
