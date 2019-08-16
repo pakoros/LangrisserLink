@@ -19,6 +19,10 @@
 
 # hero guide
 - [google guide with image(Eng)](https://docs.google.com/document/d/1ItmsOXSFcoKOdd1Q-GKovuOdAiUoEaEtXbaOam7Zk7g/edit)
+- [Hero Guide google doc](https://docs.google.com/document/d/1ItmsOXSFcoKOdd1Q-GKovuOdAiUoEaEtXbaOam7Zk7g/preview)
+- [Gear Tank+Lance,Cavalry,Infantry](https://docs.google.com/spreadsheets/d/1wMuHS2B8CfzxjUXw1uwHlvyfej0FKjqJS7Hr1XF5qS4/edit#gid=1144704325)
+- [Gear Flier, Ranger](https://docs.google.com/spreadsheets/d/1tM1JgzU0qakb4_7o9uzmXhU5G4EkrL_bmQmwXyhK0Dw/edit#gid=1490901037)
+- [Gear Mage, Healer](https://docs.google.com/spreadsheets/d/1LPGf0o7e_4I5ATJElKiylF0sYSRXoRRsxi6PQTaFGa8/edit#gid=722013709)
 
 # collection guide
 - [https://www.reddit.com/r/langrisser/comments/aosi5o/collection_of_guides/](https://www.reddit.com/r/langrisser/comments/aosi5o/collection_of_guides/)
