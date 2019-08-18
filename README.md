@@ -21,4 +21,4 @@
 
 # hero guide
 - [google guide with image(Eng)](https://docs.google.com/document/d/1ItmsOXSFcoKOdd1Q-GKovuOdAiUoEaEtXbaOam7Zk7g/edit)
-- [Hero Guide 
+
