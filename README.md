@@ -26,3 +26,9 @@
 - [Tank,Lance,Cavalry,Infantry](https://docs.google.com/spreadsheets/d/1wMuHS2B8CfzxjUXw1uwHlvyfej0FKjqJS7Hr1XF5qS4/edit#gid=1144704325)
 - [Flier, Ranger](https://docs.google.com/spreadsheets/d/1tM1JgzU0qakb4_7o9uzmXhU5G4EkrL_bmQmwXyhK0Dw/edit#gid=1490901037)
 - [Mage, Healer](https://docs.google.com/spreadsheets/d/1LPGf0o7e_4I5ATJElKiylF0sYSRXoRRsxi6PQTaFGa8/edit#gid=722013709)
+
+### other data
+- [BiS gear guide](https://docs.google.com/spreadsheets/d/1DyjkTpPI90u7JwwGibjm2gmKNmmtvPjzLaNsGk4LQ5Q/htmlview?sle=true#)
+- [SSR Gears For Langrisser Mobile](https://docs.google.com/spreadsheets/d/1WOCnMsFRNRPb93PDuWSsW3dYF1BbD15EOvLuGvNB8sg/htmlview?sle=true#gid=0)
+- [Langrisser Mobile Hero Reference Spreadsheet](https://docs.google.com/spreadsheets/d/12anuYkAchUiGXs26-fHl16vDMbTXt99XrFbZE11sh3o/edit#gid=1720721472)
+- [Enchanting](https://langrisser.gamepedia.com/Enchanting)
