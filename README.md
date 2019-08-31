@@ -23,6 +23,9 @@
 # hero guide
 - [google guide with image(Eng)](https://docs.google.com/document/d/1ItmsOXSFcoKOdd1Q-GKovuOdAiUoEaEtXbaOam7Zk7g/edit)
 
+### soider training
+- [Training Tree (japan)](https://langrisser-matome.com/capture/training/training-tree/)
+
 ### Hero Gear (Google Sheet with Image)
 - [Tank,Lance,Cavalry,Infantry](https://docs.google.com/spreadsheets/d/1wMuHS2B8CfzxjUXw1uwHlvyfej0FKjqJS7Hr1XF5qS4/edit#gid=1144704325)
 - [Flier, Ranger](https://docs.google.com/spreadsheets/d/1tM1JgzU0qakb4_7o9uzmXhU5G4EkrL_bmQmwXyhK0Dw/edit#gid=1490901037)
