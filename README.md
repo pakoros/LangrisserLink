@@ -36,3 +36,4 @@
 - [SSR Gears For Langrisser Mobile](https://docs.google.com/spreadsheets/d/1WOCnMsFRNRPb93PDuWSsW3dYF1BbD15EOvLuGvNB8sg/htmlview?sle=true#gid=0)
 - [Langrisser Mobile Hero Reference Spreadsheet](https://docs.google.com/spreadsheets/d/12anuYkAchUiGXs26-fHl16vDMbTXt99XrFbZE11sh3o/edit#gid=1720721472)
 - [Enchanting](https://langrisser.gamepedia.com/Enchanting)
+- [equipment list with image no border](https://mobilegamerhub.com/langrisser/equipments/)
