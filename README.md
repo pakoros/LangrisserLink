@@ -31,6 +31,9 @@
 - [Flier, Ranger](https://docs.google.com/spreadsheets/d/1tM1JgzU0qakb4_7o9uzmXhU5G4EkrL_bmQmwXyhK0Dw/edit#gid=1490901037)
 - [Mage, Healer](https://docs.google.com/spreadsheets/d/1LPGf0o7e_4I5ATJElKiylF0sYSRXoRRsxi6PQTaFGa8/edit#gid=722013709)
 
+### Hero Gear No Image
+- [Langrisser Best in Slot gear options (google doc)](https://docs.google.com/spreadsheets/d/1DyjkTpPI90u7JwwGibjm2gmKNmmtvPjzLaNsGk4LQ5Q/htmlview#)
+
 ### other data
 - [BiS gear guide](https://docs.google.com/spreadsheets/d/1DyjkTpPI90u7JwwGibjm2gmKNmmtvPjzLaNsGk4LQ5Q/htmlview?sle=true#)
 - [SSR Gears For Langrisser Mobile](https://docs.google.com/spreadsheets/d/1WOCnMsFRNRPb93PDuWSsW3dYF1BbD15EOvLuGvNB8sg/htmlview?sle=true#gid=0)
